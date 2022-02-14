@@ -7,8 +7,8 @@ A software developer and passionate to learn new things
 - 📫 How to reach me: batasashim@gmail.com
 - ⚡ Fun fact: I promise 
 
-Connect with me: 
+<!-- Connect with me: 
 https://www.instagram.com/darsheel_xtha/
 https://www.linkedin.com/in/ashim-batas-2021571b8/t
-https://twitter.com/batas_ashim
+https://twitter.com/batas_ashim -->
 
