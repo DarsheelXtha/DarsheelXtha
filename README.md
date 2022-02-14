@@ -1,11 +1,6 @@
 ### Hi, I'm Ashim Batas(Darsheel)👋
 A software developer and passionate to learn new things 
 
-<!--
-**DarsheelXtha/DarsheelXtha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning React
 - 💬 Ask me about Anything
