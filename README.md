@@ -1,4 +1,4 @@
-### Hi, I'm Ashim Batas(Darsheel)👋
+### Hi, I'm Ashim Batas (Darsheel)👋
 A software developer and passionate to learn new things 
 
 - 🔭 I have worked on AngularTS framework
