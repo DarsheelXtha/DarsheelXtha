@@ -1,5 +1,5 @@
 ### Hi, I'm Ashim Batas (Darsheel)👋
-I'm a software developer with a passion for learning and exploring new technologies. My experience includes working with AngularTS framework and I'm currently expanding my skill set by learning React. I am always eager to take on new challenges and expand my knowledge in the field of software development. Whether you have questions about programming or just want to chat about the latest trends in tech, feel free to ask me anything. You can reach me at batasashim@gmail.com. 
+I'm a software developer with a passion for learning and exploring new technologies. My experience includes working with AngularTS framework and I'm currently expanding my skill set by learning React and working on various projects. I am always eager to take on new challenges and expand my knowledge in the field of software development. Whether you have questions about programming or just want to chat about the latest trends in tech, feel free to ask me anything. You can reach me at batasashim@gmail.com. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
